@@ -11,7 +11,7 @@ VALUES ("Driver", 50000, 3),
         
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Joey", "Josephs", 1, 2),
-        ("Harald", "Hardrada", 3, 2),
-        ("Harold", "Godwinson", 3, 2),
-        ("William", "Conqueror", 2, 2);
+VALUES ("Joey", "Josephs", 1, 4),
+        ("Harald", "Hardrada", 3, 4),
+        ("Harold", "Godwinson", 3, 4),
+        ("William", "Conqueror", 2, 4);
